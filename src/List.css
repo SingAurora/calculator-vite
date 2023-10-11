@@ -1,0 +1,28 @@
+/*太复杂的样式写在这里*/
+.content {
+    box-shadow: -8px -8px 16px -10px rgba(255, 255, 255, 1), 8px 8px 16px -10px rgba(0, 0, 0, .15);
+  }
+  
+  .btn-cont button {
+    background: #c7eeff;
+    box-shadow:  6px 6px 12px #8ba7b3,
+    -6px -6px 12px #ffffff;
+  }
+  
+  .btn-cont button:hover {
+    background: linear-gradient(145deg, #b3d6e6, #d5ffff);
+    box-shadow:  6px 6px 12px #8ba7b3,
+    -6px -6px 12px #ffffff;
+  }
+  
+  .btn-cont button:active {
+    background: #c7eeff;
+    box-shadow: inset 6px 6px 12px #8ba7b3,
+    inset -6px -6px 12px #ffffff;
+  }
+  
+  .display{
+    box-shadow:  6px 6px 12px #8ba7b3,
+    -6px -6px 12px #ffffff;
+  }
+  
